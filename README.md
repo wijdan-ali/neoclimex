@@ -1,17 +1,15 @@
 # Overview
 <ul>
-  <li>Linear Regression Model To Predict Equilibrium Temperatures Of Exoplanets</li>
-  <li>Classification Model To Predict Category Of The Planet (Hot Jupiter, Temperate Earth, Cold Neptune)</li>
-  <li>Inputs: Orbsmax | Stellar Luminosity
+  <li>Machine Learning Model To Predict Equilibrium Temperatures Of Exoplanets</li>
+  <li>Input Features: Average Orbital Distance (orbsmax) | Star's Surface Temperature
 </ul>
 
 # Libraries Used
 <ul>
-  <li>Astropy</li>
+  <li>PyCaret</li>
   <li>Pandas</li>
   <li>Numpy</li>
   <li>Matplotlib</li>
-  <li>Scikit-Learn</li>
 </ul>
 <i><p>Codes uploaded are uploaded as Jupyter Notebooks</p></i>
 
@@ -26,5 +24,5 @@
   <li>Stellar Effective Temperature</li>
   <li>Stellar Radius</li>
 </ul>
-<i><p>To be downloaded as a CSV file; in this rep, already downloaded -> neoclimex/raw_data/exo_data.csv</p></i>
+<i><p>To be downloaded as a CSV file; in this rep, already downloaded -> neoclimex/data_files/nasa_exo_data.csv</p></i>
 
