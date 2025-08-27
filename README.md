@@ -1,7 +1,8 @@
 # Overview
 <ul>
   <li>Machine Learning Model To Predict Equilibrium Temperatures Of Exoplanets</li>
-  <li>Input Features: Average Orbital Distance (orbsmax) | Star's Surface Temperature
+  <li>Input Features: Average Orbital Distance (orbsmax) | Star's Surface Temperature</li>
+  <li>For Interactive UI, Visit <a href = "https://wijdanali7869.wixsite.com/neoclimex">NeoClimex</a> | <i>Made by <a href = "https://www.linkedin.com/in/wijdan-ali-374793288/">Wijdan Ali</a></li>
 </ul>
 
 # Libraries Used
