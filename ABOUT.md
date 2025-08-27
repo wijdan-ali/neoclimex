@@ -5,6 +5,10 @@
 </ul>
 <b>Visit  </b>
 <!--a href="https://www.linkedin.com/in/wijdan-ali-374793288">Website</a> -->
+<a href="https://wijdanali7869.wixsite.com/neoclimex/">Website</a>
+</br>
+<b>Check Out  </b>
+<!--a href="https://www.linkedin.com/in/wijdan-ali-374793288">Website</a> -->
 <a href="https://www.instagram.com/neo.climex">Instagram</a>
 
 # Why Is It Useful?
@@ -14,5 +18,9 @@
   <li>Acts as a baseline model for comparisions with more complex climate simulations</li>
 </ul>
 <hr>
-<i>Made by: </i>
+<b>Made by: </b>
 <a href="https://www.linkedin.com/in/wijdan-ali-374793288">Wijdan Ali</a>
+</br>
+<i>Any Kind Of <a href = "https://forms.gle/DE1HtjQeVGAd7dPT6">Feedback</a> Is Appreciated</i>
+
+
